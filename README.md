@@ -1,2 +1,2 @@
 # CodeWars
-My CodeWars tasks solving
+My CodeWars tasks solving on Python3
